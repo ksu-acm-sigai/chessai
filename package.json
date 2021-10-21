@@ -1,0 +1,23 @@
+{
+  "name": "chessai",
+  "version": "1.0.0",
+  "description": "simple chess ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksu-acm-sigai/chessai.git"
+  },
+  "author": "ACM-SIGAI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksu-acm-sigai/chessai/issues"
+  },
+  "homepage": "https://github.com/ksu-acm-sigai/chessai#readme",
+  "dependencies": {
+    "chess": "^0.5.0",
+    "chessboard": "^2.0.0"
+  }
+}
